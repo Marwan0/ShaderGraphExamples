@@ -1,0 +1,3 @@
+[submodule "Assets/ShaderGraph"]
+	path = Assets/ShaderGraph
+	url = git@github.com:keijiro/ShaderGraph.git
